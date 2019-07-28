@@ -1,11 +1,9 @@
 #home-top{
     color: white;
-    /* max-width: 2000px; */
-    background-image: url('bod_mainImg_01.jpg') ;
+    background-image: url('Webp.net-resizeimage.JPG') ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
-    display: flexbox;
     padding-top:300px; 
     padding-left: 200px;
     padding-right: 200px;
@@ -19,4 +17,18 @@
     border: solid black 2px;
     font-size: 50px;
     text-align: center;
+   margin: 20px;
+   transform: translateY(20px);
+}
+#intro {
+    font-size: 20px;
+    margin: 50px;
+    padding-left: 250px;
+    padding-right: 200px;
+    text-align: center;
+}
+#adams {
+    font-size: 15px;
+    text-align: right;
+    
 }
