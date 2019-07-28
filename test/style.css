@@ -1,0 +1,9 @@
+.custom-class {
+    display: block;
+    background-color:lightpink;
+  }
+  @include media-breakpoint-down(sm) {
+    .custom-class {
+      display: none;
+    }
+  }
