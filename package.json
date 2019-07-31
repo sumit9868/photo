@@ -1,0 +1,25 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "my web development project on idea of a platform for photographers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit9868/photo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit9868/photo/issues"
+  },
+  "homepage": "https://github.com/sumit9868/photo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
